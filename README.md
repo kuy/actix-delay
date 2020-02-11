@@ -35,12 +35,11 @@ See [full example](https://github.com/kuy/actix-delay/blob/master/examples/simpl
 
 ## Examples
 
-- [simple](https://github.com/kuy/actix-delay/blob/master/examples/simple.rs)
-  - `cargo run --example simple`
+- [simple](https://github.com/kuy/actix-delay/blob/master/examples/simple.rs): `cargo run --example simple`
 
 ## License
 
-MIT
+[MIT](https://github.com/kuy/actix-delay/blob/master/LICENSE)
 
 ## Author
 
