@@ -3,9 +3,7 @@
 [![crates.io](https://img.shields.io/crates/v/actix-delay.svg)](https://crates.io/crates/actix-delay)
 [![build](https://github.com/kuy/actix-delay/workflows/build/badge.svg)](https://github.com/kuy/actix-delay/actions)
 
-Simulates a delayed response for [actix-web](https://actix.rs/).
-
-This crate provides a middleware of actix-web which simulates a delayed/slow response for testing purpose.
+This crate provides a middleware of [actix-web](https://actix.rs/) which simulates a delayed/slow response for testing purpose.
 
 ## Usage
 
