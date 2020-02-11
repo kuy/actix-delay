@@ -9,14 +9,14 @@ This crate provides a middleware of [actix-web](https://actix.rs/) which simulat
 
 Add `actix-delay` to `dependencies` section in your project.
 
-```
+```toml
 [dependencies]
 actix-delay = "0.1"
 ```
 
 Add `actix_delay::middleware::Delay` as middleware.
 
-```
+```rust
 use actix_delay::middleware::Delay;
 
 async fn main() -> std::io::Result<()> {
